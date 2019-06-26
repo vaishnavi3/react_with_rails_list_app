@@ -1,0 +1,15 @@
+current directory: /Users/vaishnavi/my_projects/react_redux_rails_list_app/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.4.4/ext/bootsnap
+/Users/vaishnavi/.rubies/ruby-2.5.1/bin/ruby -r ./siteconf20190626-8206-1takemq.rb extconf.rb
+creating Makefile
+
+current directory: /Users/vaishnavi/my_projects/react_redux_rails_list_app/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/vaishnavi/my_projects/react_redux_rails_list_app/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/vaishnavi/my_projects/react_redux_rails_list_app/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.4.4/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20190626-8206-1985g8/bootsnap
